@@ -20,3 +20,7 @@ Deleted At - datetime
 - [ ] Warranty
 - [ ] Item Location
 - [ ] Item Purchase Location
+
+My database model so far-- Still WIP!
+
+![model](model.png)
