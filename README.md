@@ -13,12 +13,12 @@ Deleted At - datetime
 ## Entities in a Home Inventory System
 
 - [x] User
-- [ ] Manufacturer
-- [ ] Item Type
-- [ ] Item
+- [x] Manufacturer
+- [x] Item Type
+- [x] Item
 - [ ] Comment
 - [ ] Warranty
-- [ ] Item Location
+- [x] Item Location
 - [ ] Item Purchase Location
 
 My database model so far-- Still WIP!
