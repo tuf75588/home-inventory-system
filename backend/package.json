@@ -1,0 +1,15 @@
+{
+  "name": "sql-backend",
+  "version": "1.0.0",
+  "description": "Backend implementation of sql-model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Davis",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.20.13",
+    "pg": "^7.18.2"
+  }
+}
