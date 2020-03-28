@@ -23,4 +23,4 @@ Deleted At - datetime
 
 My database model so far-- Still WIP!
 
-![model](model.png)
+![model](Model.png)
